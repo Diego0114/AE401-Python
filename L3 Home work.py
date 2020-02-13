@@ -14,6 +14,8 @@ while c<5:
             print("你答對了")
             print("玩了",c,"次")
             break
+    else:
+        print("要輸入1~20")
 if c==5:
     print("game over")
     
