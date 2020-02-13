@@ -18,4 +18,3 @@ while c<5:
         print("要輸入1~20")
 if c==5:
     print("game over")
-    
