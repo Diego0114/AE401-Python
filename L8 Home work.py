@@ -26,6 +26,9 @@ while True:
             cword=input("中文單字:")
             if cword==k:
                 i+=1
+                print("你答對了喔!")
+            else:
+                print("你答錯了喔")
             a+=1
         print(i,"/",a)
     elif b=="6":
