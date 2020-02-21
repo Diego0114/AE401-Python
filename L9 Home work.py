@@ -35,4 +35,4 @@ while True:
             a+=1
         print(i,"/",a)
     elif b=="6":
-        break
+        break 
